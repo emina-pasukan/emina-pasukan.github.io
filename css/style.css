@@ -1,0 +1,32 @@
+:root 
+{
+    --favcolor: lightskyblue;
+}
+h1 
+{
+   text-align: center;
+   color: var(--favcolor);
+   background-color: lavender;
+   font-size: 16pt;
+}
+section
+{
+    color: var(--favcolor);
+    float: right;
+ }
+p
+{
+    text-align: left;
+ }
+ img
+ {
+border-radius: 8px;
+ }
+ div
+ {
+    text-align: center;
+ }
+ div.button
+ {
+    text-align: center;
+ }
