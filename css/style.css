@@ -1,12 +1,12 @@
 :root 
 {
-    --favcolor: lightskyblue;
+    --favcolor: rgb(135, 206, 250);
 }
 h1 
 {
    text-align: center;
    color: var(--favcolor);
-   background-color: lavender;
+   background-color: rgb(230, 230, 250);
    font-size: 16pt;
 }
 section
