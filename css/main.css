@@ -1,0 +1,17 @@
+body
+{
+    background-color: rgb(240, 255, 240) ;
+}
+h1
+{
+    text-decoration: underline;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(36, 157, 161); 
+}
+ul
+{
+    font-size: 20pt; 
+     font-style: italic;
+     text-decoration: underline;
+}
