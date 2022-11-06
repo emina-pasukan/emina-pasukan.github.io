@@ -9,6 +9,10 @@ h1
    background-color: rgb(230, 230, 250);
    font-size: 16pt;
 }
+section h2
+{
+font-size: 14pt;
+}
 section
 {
     color: var(--favcolor);
