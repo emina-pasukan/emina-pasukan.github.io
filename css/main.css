@@ -18,3 +18,7 @@ ul
      font-style: italic;
      color:rgb(11, 11, 11);
 }
+img.mainlogo
+{
+  widith: 40vmax;
+}
